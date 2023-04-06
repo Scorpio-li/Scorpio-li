@@ -31,3 +31,26 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpio-li)](https://github.com/anuraghazra/github-readme-stats)
 
+## 小徽章
+
+[Shields.io](https://shields.io/)
+
+[访客数徽章(Visitor Badge)](https://visitor-badge.glitch.me/)
+
+## star 历史
+
+[Star History](https://star-history.t9t.io)
+
+[GitHub Star History](https://codetabs.com/github-stars/github-star-history.html)
+
+## 分享角标
+
+[GitHub Corners](https://tholman.com/github-corners/)
+
+## 你的 GitHub 故事
+
+[GitHub Skyline](https://skyline.github.com/)
+
+## 感谢参与者
+
+[All Contributors](https://allcontributors.org/)
